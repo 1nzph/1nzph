@@ -1,7 +1,7 @@
 # Hi there, I'm Enzo Philippi! 👋
 
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/d/1ZtM6wNclZf6f-m0Wc75Wf_2X_qYgVv-s" alt="Transition Banner" width="100%" style="border-radius: 8px;"/>
+  <img src="./banner.jpg" alt="Transition Banner" width="100%" style="border-radius: 8px;"/>
 </div>
 
 <br>
