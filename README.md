@@ -43,27 +43,20 @@ Here are some of my best projects that show what I can do:
   <tr>
     <td width="50%">
       <h3 align="center">🔮 Quadrafy</h3>
-      <p align="center">Escreva aqui uma breve descrição do que o projeto Quadrafy faz e quais tecnologias você utilizou nele.</p>
+      <p align="center">A web application designed for booking and managing padel tennis courts, providing a seamless reservation experience for players.</p>
       <p align="center">
         <a href="https://github.com/1nzph/Quadrafy"><b>View Repository ↗</b></a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">⚙️ otimizadorV7</h3>
-      <p align="center">Um script de usuário (UserScript) desenvolvido para otimização rápida e automatizada.</p>
+      <p align="center">A UserScript that applies mathematical equations to calculate and optimize the time spent planning fields and links in the game Ingress.</p>
       <p align="center">
         <a href="https://gist.github.com/1nzph/f7b182f0e48eac95d22c9dd477388607"><b>View Gist ↗</b></a>
       </p>
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radial"/>
-</div>
 
 ---
 
