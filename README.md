@@ -1,7 +1,7 @@
 # Hi there, I'm Enzo Philippi! 👋
 
 <div align="center">
-  <img src="./banner.jpg" alt="Transition Banner" width="100%" style="border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/1nzph/1nzph/main/banner.jpg" alt="Transition Banner" width="100%" style="border-radius: 8px;"/>
 </div>
 
 <br>
