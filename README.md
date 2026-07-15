@@ -1,7 +1,7 @@
 # Hi there, I'm Enzo Philippi! 👋
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Coding Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="https://lh3.googleusercontent.com/d/1ZtM6wNclZf6f-m0Wc75Wf_2X_qYgVv-s" alt="Transition Banner" width="100%" style="border-radius: 8px;"/>
 </div>
 
 <br>
