@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there, I'm Enzo Philippi! 👋
 
-<!--
-**1nzph/1nzph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Coding Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;"/>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I’m currently studying **Computer Science**
+- 💻 Working in CalibraFruta developing systems for new machines using **Python**
+
+
+---
+
+## 🛠️ My Tech Stack & Tools
+
+Here are the technologies and tools I work with on a daily basis:
+
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend, Languages & Databases
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### IDEs & Notebooks
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Marimo](https://img.shields.io/badge/Marimo-⚡-blueviolet?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my best projects that show what I can do:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏆 Project 1</h3>
+      <p align="center">Website for padel.</p>
+      <p align="center">
+        <a href="YOUR_REPO_OR_DEPLOY_LINK"><b>View Project ↗</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Project 2</h3>
+      <p align="center">A short description of your second awesome project to catch people's eye.</p>
+      <p align="center">
+        <a href="YOUR_REPO_OR_DEPLOY_LINK"><b>View Project ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radial"/>
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+If you like my profile, feel free to reach out and say hi!
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzophi06@gmail.com)
